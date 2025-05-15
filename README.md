@@ -1,6 +1,12 @@
 # Temperature-Monitoring-System
 F431151
 
+###IMPORTANT###
+
+#Final Notebook found can be found in Test Branch#
+
+##################################################
+
 This project covers various topics related to programming and software engineering. Firstly, it teaches and assesses the use of github. The project tackles multiple areas including authentication issues and merge conflicts. Secondly, the project looks at Arduinos and the temperature sensor. Learning material is provided to support setup and answering questions. Task 3 is to build upon the provided code to monitor temperature and ultimately provide the results automatically into an excel csv file. Finally task 4 is to optimise the code, implementing adaptive sampling and potentially future variation trend prediction. 
 
 
